@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/course/static/js/main.21d38548.js",
+    "static/media/imml.png": "/course/static/media/imml.5f7d5799eb1de8603404.png",
+    "static/media/imlogo.svg": "/course/static/media/imlogo.4c8cb5b86c98b807105136d3b6089aba.svg",
+    "static/media/user.png": "/course/static/media/user.5e8a9686be49070ab6a0.png",
+    "static/media/Support.svg": "/course/static/media/Support.db14f196d2fef12cbc21b8c2523346d5.svg",
+    "index.html": "/course/index.html",
+    "main.21d38548.js.map": "/course/static/js/main.21d38548.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.21d38548.js"
+  ]
+}
